@@ -1,5 +1,14 @@
 # Chicago Crime Data Analysis and Prediction
 
+![screenshot](images/Pbda.PNG)
+![screenshot](images/pbda_tab_vis.PNG)
+![screenshot](images/pbda_vis.PNG)
+
+
+## Architecture
+
+![screenshot](images/pbda_architecture.PNG)
+
 ## Analysis
 
 A Spark pipeline has been created for data cleaning and processing huge sets of data. We have used various visualization tools like Bokeh, Tableau, Folium, Google Maps to analyse various crime trends that could 
